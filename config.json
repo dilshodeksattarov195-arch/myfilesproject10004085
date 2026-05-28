@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "routersarse",
+        "uuid": 27602345,
+        "checksum": "a636wt"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "production"
+    }
+}
